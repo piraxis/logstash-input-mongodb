@@ -4,7 +4,7 @@ PATH
     logstash-input-mongodb (0.1.1)
       jdbc-sqlite3 (= 3.8.10.1)
       logstash-codec-plain (~> 0)
-      logstash-core (>= 1.4.0, < 2.0.0)
+      logstash-core (>= 1.4.0, < 6.0.0)
       mongo (>= 1.12.2, < 2.0.0)
       sequel (~> 0)
       stud (~> 0)
